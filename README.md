@@ -7,6 +7,8 @@ regression with nPC components, including plots
 
 
    Arguments:
+   
+   
    Xdata = observations x variables input data matrix
    Ydata = response variable array
    nPC = number of PCs to regress
@@ -14,6 +16,8 @@ regression with nPC components, including plots
 
 
    Outputs:
+   
+   
    coeff_loadings = Principal component coefficients are recipe for counting any given PC
        each column of coeff contains coefficients for one principal component.
        columns are in order of descending component variance, latent.
