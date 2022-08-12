@@ -4,11 +4,15 @@ principal component analysis w/regression in MATLAB
 
 %pca_regression Function runs principal component analysis and conducts PC
 %regression with nPC components, including plots
+
+
 %   Arguments:
 %   Xdata = observations x variables input data matrix
 %   Ydata = response variable array
 %   nPC = number of PCs to regress
-%
+
+
+
 %   Outputs:
 %   coeff_loadings = Principal component coefficients are recipe for counting any given PC
 %       each column of coeff contains coefficients for one principal component.
