@@ -10,7 +10,11 @@ regression with nPC components, including plots
    
    
    Xdata = observations x variables input data matrix
+   
+  
    Ydata = response variable array
+   
+   
    nPC = number of PCs to regress
 
 
